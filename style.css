@@ -67,6 +67,6 @@ a:visited{
     color: white;
 }
 
-.Origami:hover{
+.Origami img:hover{
     transform: scale(1.2);
 }
